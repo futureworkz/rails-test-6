@@ -48,4 +48,5 @@ Must over 18 to be a mother
 A person has only one father, mother
 Father, Son, Brother are male
 Mother, Daughter are female
+Searchable by full name
 ```
