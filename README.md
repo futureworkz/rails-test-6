@@ -27,6 +27,7 @@ john.name => "John Fwz"
 william.parents => [john, lily]
 william.father => john
 william.mother => lily
+john.say_something => "Hello, my name is John Fwz."
 william.father.say_something => "Hello, I am your father."
 william.mother.say_something => "Hello, I am your mother."
 lily.sons => [william, michael]
